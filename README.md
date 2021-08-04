@@ -35,6 +35,10 @@ Then, You got here right!!
 |Reverse array in groups||
 |Rotate Array||
 |Equilibrium Point||
+|Leaders in an array||
+|Wave Array||
+|Subarray with given sum||
+|Kadane's Algorithm||
 
 ### 3.Matrix
 
