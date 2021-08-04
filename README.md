@@ -25,3 +25,15 @@ Then, You got here right!!
 #### Problems 
 - [smallest-divisible-number](https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1/?track=dsa-workshop-1-mathematics&batchId=308)
 - [Digits In Factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=dsa-workshop-1-mathematics&batchId=308)
+
+### 2.Arrays
+
+### 3.Matrix
+
+### 4.Searching and Sorting
+
+### 5.Bit Manipulation
+
+### 6.Linked List
+
+### 7.Hashing
