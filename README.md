@@ -15,9 +15,14 @@ Do you want to make your DSA strong 🤩
 
 Then, You got here right!!
 
-## Topics 
+## Topics and Problems
 
 ### Basics Maths
+#### Topics
 - [count digits in an integer](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
 - [Arithmetic Progression](https://www.geeksforgeeks.org/arithmetic-progression/)
 - [LCM and HCF](https://www.geeksforgeeks.org/lcm-and-hcf/)
+
+#### Problems 
+- [smallest-divisible-number](https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1/?track=dsa-workshop-1-mathematics&batchId=308)
+- [Digits In Factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=dsa-workshop-1-mathematics&batchId=308)
