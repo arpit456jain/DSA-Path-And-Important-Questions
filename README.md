@@ -14,3 +14,10 @@ Do you want to make your DSA strong 🤩
 <p align="center"><img src="https://media.giphy.com/media/3oEjI8vagntG7EDxgQ/giphy.gif" width = 40%></p>
 
 Then, You got here right!!
+
+## Topics 
+
+### Basics Maths
+- [count digits in an integer](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
+- [Arithmetic Progression](https://www.geeksforgeeks.org/arithmetic-progression/)
+- [LCM and HCF](https://www.geeksforgeeks.org/lcm-and-hcf/)
