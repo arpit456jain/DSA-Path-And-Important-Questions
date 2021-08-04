@@ -18,13 +18,9 @@ Then, You got here right!!
 ## Topics and Problems
 
 ### 1.Basics Maths
-#### Topics
-- [count digits in an integer](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
-- [Arithmetic Progression](https://www.geeksforgeeks.org/arithmetic-progression/)
-- [LCM and HCF](https://www.geeksforgeeks.org/lcm-and-hcf/)
-#### Problems 
-- [smallest-divisible-number](https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1/?track=dsa-workshop-1-mathematics&batchId=308)
-- [Digits In Factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=dsa-workshop-1-mathematics&batchId=308)
+| Topic | Related Article | Practice Problems |
+|---|---|---|
+| Digits In Factorial | [Count digits in a factorial Set 1 by gfg](https://www.geeksforgeeks.org/count-digits-factorial-set-1/) <br> [Count digits in a factorial Set 2 by gfg](https://www.geeksforgeeks.org/count-digits-factorial-set-2/) | [Practice Problem](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=dsa-workshop-1-mathematics&batchId=308)
 
 ### 2.Arrays
 
