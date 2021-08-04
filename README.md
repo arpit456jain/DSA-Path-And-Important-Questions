@@ -29,6 +29,12 @@ Then, You got here right!!
 | Topic | Related Article | Practice Problems on Differenr Platforms|
 |---|---|---|
 |Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+|Rearrange an array with O(1) extra space||
+|Trapping Rain Water||
+|Remove duplicate elements from sorted Array||
+|Reverse array in groups||
+|Rotate Array||
+|Equilibrium Point||
 
 ### 3.Matrix
 
