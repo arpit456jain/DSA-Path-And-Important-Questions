@@ -15,7 +15,7 @@ Do you want to make your DSA strong 🤩
 
 Then, You got here right!!
 
-## Topics and Problems
+## Problems With Related Article and Practice Problems on different platforms
 
 ### 1.Basics Maths
 | Topic | Related Article | Practice Problems on Differenr Platforms|
@@ -26,6 +26,9 @@ Then, You got here right!!
 
 
 ### 2.Arrays
+| Topic | Related Article | Practice Problems on Differenr Platforms|
+|---|---|---|
+|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### 3.Matrix
 
