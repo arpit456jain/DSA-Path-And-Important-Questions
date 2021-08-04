@@ -21,7 +21,8 @@ Then, You got here right!!
 | Topic | Related Article | Practice Problems on Differenr Platforms|
 |---|---|---|
 | Digits In Factorial | [Count digits in a factorial Set 1 by gfg](https://www.geeksforgeeks.org/count-digits-factorial-set-1/) <br> [Count digits in a factorial Set 2 by gfg](https://www.geeksforgeeks.org/count-digits-factorial-set-2/) | [geeksforgeeks](https://www.codechef.com/problems/FCTDIG) <br> [CodeChef](https://practice.geeksforgeeks.org/problems/count-digits-in-a-factorial3957/1)
-|Exactly 3 Divisors|| [geeksforgeeks](https://practice.geeksforgeeks.org/problems/3-divisors3942/1) <br> [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/3-divisors_1063251)
+|Exactly 3 Divisors| [Exactly 3 Divisors by gfg](https://www.geeksforgeeks.org/numbers-exactly-3-divisors/) | [geeksforgeeks](https://practice.geeksforgeeks.org/problems/3-divisors3942/1) <br> [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/3-divisors_1063251)
+|Primality Test | [Prime Numbers](https://www.geeksforgeeks.org/prime-numbers/) [Introduction and School Method](https://www.geeksforgeeks.org/primality-test-set-1-introduction-and-school-method/) <br> [Fermat Method](https://www.geeksforgeeks.org/primality-test-set-2-fermet-method/) <br>  | [CodeChef](https://www.codechef.com/problems/PRB01)
 
 
 ### 2.Arrays
