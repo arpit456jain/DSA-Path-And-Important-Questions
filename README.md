@@ -59,8 +59,24 @@ Then, You got here right!!
 |Max rectangle||
 
 ### 4.Searching and Sorting
+| Topic | Related Article | Practice Problems on Differenr Platforms|
+|---|---|---|
+|Square root of a number||
+|Binary Search||
+|Peak element||
+|Search an element in sorted and rotated array||
+|Merge Sort||
+|Quick Sort||
+|Union of Two Sorted Arrays||
+|Intersection of two sorted arrays||
+|Minimum Swaps to Sort||
+|Minimum Platforms||
+|Median of Two sorted arrays||
+|Sort an array of 0s, 1s and 2s||
 
 ### 5.Bit Manipulation
+| Topic | Related Article | Practice Problems on Differenr Platforms|
+|---|---|---|
 
 ### 6.Linked List
 
