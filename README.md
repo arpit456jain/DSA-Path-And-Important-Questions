@@ -39,6 +39,12 @@ Then, You got here right!!
 |Wave Array||
 |Subarray with given sum||
 |Kadane's Algorithm||
+|Find Transition Point||
+|Leaders in an array||
+|First Repeating Element||
+|Smallest Positive missing number||
+|Rearrange an array with O(1) extra space||
+|Merge Without Extra Space||
 
 ### 3.Matrix
 
