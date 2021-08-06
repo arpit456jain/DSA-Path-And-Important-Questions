@@ -47,6 +47,16 @@ Then, You got here right!!
 |Merge Without Extra Space||
 
 ### 3.Matrix
+| Topic | Related Article | Practice Problems on Differenr Platforms|
+|---|---|---|
+|Adding two matrices||
+|Multiply the matrices||
+|Determinant of a Matrix||
+|Transpose of Matrix||
+|Rotate by 90 degree||
+|Spirally traversing a matrix||
+|Search in a row-column sorted Matrix||
+|Max rectangle||
 
 ### 4.Searching and Sorting
 
