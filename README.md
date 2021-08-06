@@ -77,10 +77,24 @@ Then, You got here right!!
 ### 5.Bit Manipulation
 | Topic | Related Article | Practice Problems on Differenr Platforms|
 |---|---|---|
+|Check whether K-th bit is set or not||
+|Count total set bits||
+|Number is sparse or not||
+|Binary To Gray Code equivalent||
+|Gray to Binary equivalent||
+|Power of 2||
+|Find first set bit||
+|Rightmost different bit||
+|Swap all odd and even bits||
+|Maximum subset XOR||
 
 ### 6.Linked List
+| Topic | Related Article | Practice Problems on Differenr Platforms|
+|---|---|---|
 
 ### 7.Hashing
+| Topic | Related Article | Practice Problems on Differenr Platforms|
+|---|---|---|
 
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
