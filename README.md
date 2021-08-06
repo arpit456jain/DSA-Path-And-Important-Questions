@@ -26,7 +26,7 @@ Then, You got here right!!
 
 
 ### 2.Arrays
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on Different Platforms|
 |---|---|---|
 |Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 |Rearrange an array with O(1) extra space||
