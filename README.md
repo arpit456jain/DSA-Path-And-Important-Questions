@@ -18,7 +18,7 @@ Then, You got here right!!
 ## Problems With Related Article and Practice Problems on different platforms
 
 ### 1.Basics Maths
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 | Digits In Factorial | [Count digits in a factorial Set 1 by gfg](https://www.geeksforgeeks.org/count-digits-factorial-set-1/) <br> [Count digits in a factorial Set 2 by gfg](https://www.geeksforgeeks.org/count-digits-factorial-set-2/) | [geeksforgeeks](https://www.codechef.com/problems/FCTDIG) <br> [CodeChef](https://practice.geeksforgeeks.org/problems/count-digits-in-a-factorial3957/1)
 |Exactly 3 Divisors| [Exactly 3 Divisors by gfg](https://www.geeksforgeeks.org/numbers-exactly-3-divisors/) | [geeksforgeeks](https://practice.geeksforgeeks.org/problems/3-divisors3942/1) <br> [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/3-divisors_1063251)
@@ -26,7 +26,7 @@ Then, You got here right!!
 
 
 ### 2.Arrays
-| Topic | Related Article | Practice Problems on Different Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 |Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 |Rearrange an array with O(1) extra space||
@@ -47,7 +47,7 @@ Then, You got here right!!
 |Merge Without Extra Space||
 
 ### 3.Matrix
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 |Adding two matrices||
 |Multiply the matrices||
@@ -59,7 +59,7 @@ Then, You got here right!!
 |Max rectangle||
 
 ### 4.Searching and Sorting
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 |Square root of a number||
 |Binary Search||
@@ -75,7 +75,7 @@ Then, You got here right!!
 |Sort an array of 0s, 1s and 2s||
 
 ### 5.Bit Manipulation
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 |Check whether K-th bit is set or not||
 |Count total set bits||
@@ -89,11 +89,11 @@ Then, You got here right!!
 |Maximum subset XOR||
 
 ### 6.Linked List
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 
 ### 7.Hashing
-| Topic | Related Article | Practice Problems on Differenr Platforms|
+| Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 
 
