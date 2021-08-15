@@ -100,4 +100,27 @@ Then, You got here right!!
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## 11 Weeks Workshop on Data Structures and Algorithms Solution in [python](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-Python)
 ## 11 Weeks Workshop on Data Structures and Algorithms Solution in [C++](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-CPP)
+
+<h2 align=center> ✨ Contributors </h2>
+
+Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
+
+<table>
+	<tr>
+		 <td>
+  		<a href="https://github.com/arpit456jain/DSA-Path-And-Important-Questions/graphs/contributors">
+  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/DSA-Path-And-Important-Questions" />
+  		</a>
+		</td>
+	</tr>
+</table>
+
+<hr>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+## 💬Join Our CodeSmashers Community
+
+Join - https://discord.gg/gtYUZQSjTt
+
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
