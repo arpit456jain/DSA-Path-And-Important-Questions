@@ -109,7 +109,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	<tr>
 		 <td>
   		<a href="https://github.com/arpit456jain/DSA-Path-And-Important-Questions/graphs/contributors">
-  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/DSA-Path-And-Important-Questions" />
+  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/DSA-Path-And-Important-questions" />
   		</a>
 		</td>
 	</tr>
