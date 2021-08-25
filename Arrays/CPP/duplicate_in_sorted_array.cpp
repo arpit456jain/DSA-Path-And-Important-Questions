@@ -1,3 +1,21 @@
+/*
+Input format:-
+    first line takes the no. of test cases
+    second line takes n - the no of elements
+    third lines takes input of n space seperated elements
+
+Testcases:-
+    Input:-
+    2 
+    5
+    1 1 4 4 6
+    14
+    1 3 4 5 5 5 5 8 8 8 8 9 9 9 
+    Output:-
+    1 4 6
+    1 3 4 5 8 9
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;

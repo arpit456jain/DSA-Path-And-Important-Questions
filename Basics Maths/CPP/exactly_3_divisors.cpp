@@ -1,3 +1,24 @@
+/*
+Input format:-
+    first line takes the no. of test cases
+    second line takes n - the no of query 
+    third lines takes input of k space seperated elements
+
+Testcases:-
+    Input :-
+        2
+        1
+        6
+        2
+        6 10
+    Output :-
+        1
+        1
+        2
+    Explanation:-
+        for 6 there is only 4 which have exactly three divisors
+        for 10 there are 4 and 9 only with exactly three divisors
+*/
 #include<bits/stdc++.h> 
 using namespace std; 
 
