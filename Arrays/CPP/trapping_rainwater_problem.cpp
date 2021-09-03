@@ -1,3 +1,25 @@
+/*
+Input format:-
+    first line takes the no. of test cases
+    second line takes n - the no of elements
+    third lines takes input of n space seperated elements
+
+Testcases:-
+    Input:-
+    3
+    6
+    3 0 0 2 0 4 
+    4
+    7 4 0 9
+    3 
+    6 9 9
+    Output:-
+    10
+    10 
+    0
+    
+*/
+
 #include<bits/stdc++.h>
 
 using namespace std;

@@ -1,5 +1,22 @@
 // Merge two sorted array without extra space
 
+/*
+Input format:-
+    first line takes the no. of test cases
+    second line takes n & m - the no of elements in arr1 and arr 2
+    third lines takes input of n space seperated elements
+    fourth lines takes input of m space seperated elements
+
+Testcases:-
+    Input:-
+    1
+    5 6 
+    1 2 5 8 9
+    3 4 5 6 6 9
+    Output:-
+    1 2 3 4 5 5 6 6 8 9 9
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
