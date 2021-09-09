@@ -98,6 +98,7 @@ Then, You got here right!!
 
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
+## DSA quick Revision [click here](https://github.com/arpit456jain/DSA-Quick-Revison)
 ## 11 Weeks Workshop on Data Structures and Algorithms Solution in [python](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-Python)
 ## 11 Weeks Workshop on Data Structures and Algorithms Solution in [C++](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-CPP)
 
