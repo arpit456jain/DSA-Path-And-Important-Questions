@@ -28,12 +28,17 @@ Then, You got here right!!
 ### 2.Arrays
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-
 |Rearrange an array with O(1) extra space||
 |Trapping Rain Water| [Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/) <br>|
 |Remove duplicate elements from sorted Array||
 |Reverse array in groups||
 |Rotate Array||
+|Rearrange an array with O(1) extra space|[Rearrange an array with O(1) extra space by gfg](https://www.geeksforgeeks.org/rearrange-given-array-place/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
+|Trapping Rain Water|[Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
+|Remove duplicate elements from sorted Array|[Remove duplicate elements from sorted Array by gfg](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
+|Reverse array in groups|[Reverse array in groups by gfg](https://www.geeksforgeeks.org/reverse-an-array-in-groups-of-given-size/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0)
+|Rotate Array|[Rotate array by gfg](https://www.geeksforgeeks.org/array-rotation/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
 |Equilibrium Point||
 |Leaders in an array||
 |Wave Array||
@@ -98,6 +103,30 @@ Then, You got here right!!
 
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
+## DSA quick Revision [click here](https://github.com/arpit456jain/DSA-Quick-Revison)
 ## 11 Weeks Workshop on Data Structures and Algorithms Solution in [python](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-Python)
 ## 11 Weeks Workshop on Data Structures and Algorithms Solution in [C++](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-CPP)
+
+<h2 align=center> ✨ Contributors </h2>
+
+Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
+
+<table>
+	<tr>
+		 <td>
+  		<a href="https://github.com/arpit456jain/DSA-Path-And-Important-Questions/graphs/contributors">
+  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/DSA-Path-And-Important-questions" />
+  		</a>
+		</td>
+	</tr>
+</table>
+
+<hr>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+## 💬Join Our CodeSmashers Community
+
+Join - https://discord.gg/gtYUZQSjTt
+
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
