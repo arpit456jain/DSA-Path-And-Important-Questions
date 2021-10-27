@@ -28,7 +28,12 @@ Then, You got here right!!
 ### 2.Arrays
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-
+|Rearrange an array with O(1) extra space||
+|Trapping Rain Water| [Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/) <br>|
+|Remove duplicate elements from sorted Array||
+|Reverse array in groups||
+|Rotate Array||
 |Rearrange an array with O(1) extra space|[Rearrange an array with O(1) extra space by gfg](https://www.geeksforgeeks.org/rearrange-given-array-place/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 |Trapping Rain Water|[Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
 |Remove duplicate elements from sorted Array|[Remove duplicate elements from sorted Array by gfg](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
