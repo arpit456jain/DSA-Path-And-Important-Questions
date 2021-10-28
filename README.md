@@ -39,7 +39,7 @@ Then, You got here right!!
 |Remove duplicate elements from sorted Array|[Remove duplicate elements from sorted Array by gfg](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
 |Reverse array in groups|[Reverse array in groups by gfg](https://www.geeksforgeeks.org/reverse-an-array-in-groups-of-given-size/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0)
 |Rotate Array|[Rotate array by gfg](https://www.geeksforgeeks.org/array-rotation/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
-|Equilibrium Point||
+|Equilibrium Point| [Equilibrium Point](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/) |
 |Leaders in an array||
 |Wave Array||
 |Subarray with given sum||
