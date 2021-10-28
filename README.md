@@ -15,6 +15,8 @@ Do you want to make your DSA strong 🤩
 
 Then, You got here right!!
 
+If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Problems With Related Article and Practice Problems on different platforms
 
 ### 1.Basics Maths
