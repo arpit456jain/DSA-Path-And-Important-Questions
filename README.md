@@ -66,11 +66,11 @@ Then, You got here right!!
 ### 4.Searching and Sorting
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Square root of a number||
-|Binary Search||
-|Peak element||
-|Search an element in sorted and rotated array||
-|Merge Sort||
+|Square root of a number|[Square root of a number](https://www.geeksforgeeks.org/square-root-of-an-integer/)|
+|Binary Search|[Binary Search](https://www.geeksforgeeks.org/binary-search/)|
+|Peak element|[Peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)|
+|Search an element in sorted and rotated array|[Search an element in sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)|
+|Merge Sort|[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|
 |Quick Sort||
 |Union of Two Sorted Arrays||
 |Intersection of two sorted arrays||
