@@ -82,16 +82,16 @@ Then, You got here right!!
 ### 5.Bit Manipulation
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Check whether K-th bit is set or not||
-|Count total set bits||
-|Number is sparse or not||
-|Binary To Gray Code equivalent||
-|Gray to Binary equivalent||
-|Power of 2||
-|Find first set bit||
-|Rightmost different bit||
-|Swap all odd and even bits||
-|Maximum subset XOR||
+|Check whether K-th bit is set or not|[Check whether K-th bit is set or not by gfg](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)
+|Count total set bits|[Count total set bits by gfg](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)[InterviewBit](https://www.interviewbit.com/problems/count-total-set-bits/)
+|Number is sparse or not|[Check if a given number is sparse or not by gfg](https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)
+|Binary To Gray Code equivalent|[Gray to Binary and Binary to Gray conversion by gfg](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)|[LeetCode](https://leetcode.com/problems/gray-code/)
+|Gray to Binary equivalent|[Gray to Binary and Binary to Gray conversion by gfg](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)
+|Power of 2|[Program to find whether a given number is power of 2 gfg](https://www.geeksforgeeks.org/program-to-find-whether-a-given-number-is-power-of-2/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)
+|Find first set bit|[finding the first set bit in a binary number on Stackoverflow](https://stackoverflow.com/questions/21623614/finding-the-first-set-bit-in-a-binary-number)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)
+|Rightmost different bit|[Position of rightmost different bit by gfg](https://www.geeksforgeeks.org/position-rightmost-different-bit/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)
+|Swap all odd and even bits|[Swap all odd and even bits](https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)
+|Maximum subset XOR|[Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)|[Codeforces](https://codeforces.com/blog/entry/9518)
 
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
