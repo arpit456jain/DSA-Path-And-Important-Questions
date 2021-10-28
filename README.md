@@ -54,13 +54,13 @@ Then, You got here right!!
 ### 3.Matrix
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Adding two matrices||
-|Multiply the matrices||
-|Determinant of a Matrix||
-|Transpose of Matrix||
-|Rotate by 90 degree||
-|Spirally traversing a matrix||
-|Search in a row-column sorted Matrix||
+|Adding two matrices|[Adding two matrices](https://www.geeksforgeeks.org/program-addition-two-matrices/)|
+|Multiply the matrices|[Multiply the matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices)|
+|Determinant of a Matrix|[Determinant of a Matrix](https://www.geeksforgeeks.org/determinant-of-a-matrix/)|
+|Transpose of Matrix|[Transpose of Matrix](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/)|
+|Rotate by 90 degree|[Rotate by 90 degree](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)|
+|Spirally traversing a matrix|[Spirally traversing a matrix](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)|
+|Search in a row-column sorted Matrix|[Search in a row-column sorted Matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)|
 |Max rectangle||
 
 ### 4.Searching and Sorting
