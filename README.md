@@ -45,10 +45,10 @@ Then, You got here right!!
 |Subarray with given sum|[Subarray with given sum](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)|
 |Kadane's Algorithm|[Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)|
 |Find Transition Point|[Find Transition Point](https://www.geeksforgeeks.org/find-transition-point-binary-array/)|
-|Leaders in an array||
-|First Repeating Element||
-|Smallest Positive missing number||
-|Rearrange an array with O(1) extra space||
+|Leaders in an array|[Leaders in an array](https://www.geeksforgeeks.org/leaders-in-an-array/)|
+|First Repeating Element|[First Repeating Element](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/)|
+|Smallest Positive missing number|[Smallest Positive missing number](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)|
+|Rearrange an array with O(1) extra space|[Rearrange an array with O(1) extra space](https://www.geeksforgeeks.org/rearrange-given-array-place/)|
 |Merge Without Extra Space||
 
 ### 3.Matrix
