@@ -78,8 +78,8 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |Intersection of two sorted arrays|[Intersection of two sorted arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|
 |Minimum Swaps to Sort|[Minimum Swaps to Sort](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)|
 |Minimum Platforms||
-|Median of Two sorted arrays||
-|Sort an array of 0s, 1s and 2s||
+|Median of Two sorted arrays|[Median of Two sorted arrays](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)|
+|Sort an array of 0s, 1s and 2s|[Sort an array of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)|
 
 ### 5.Bit Manipulation
 | Topic | Related Article | Practice Problems on different Platforms|
@@ -98,7 +98,10 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-
+|deletion in linked kist|[deletion in linked kist](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)|
+|insertion in linked list|[insertion in linked list](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)|
+|sorting a linked list|[sorting a linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)|
+|swapping in linked list|[swapping in linked list](https://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/)|
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
