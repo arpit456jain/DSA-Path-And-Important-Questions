@@ -60,7 +60,7 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |Multiply the matrices|[Multiply the matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/multiply-matrices/1)
 |Determinant of a Matrix|[Determinant of a Matrix](https://www.geeksforgeeks.org/determinant-of-a-matrix/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1)
 |Transpose of Matrix|[Transpose of Matrix](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)
-|Rotate by 90 degree|[Rotate by 90 degree](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)|[GeeksforGeeks]https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)
+|Rotate by 90 degree|[Rotate by 90 degree](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)
 |Spirally traversing a matrix|[Spirally traversing a matrix](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)|
 |Search in a row-column sorted Matrix|[Search in a row-column sorted Matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)|
 |Max rectangle||
