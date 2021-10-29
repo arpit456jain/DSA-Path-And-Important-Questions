@@ -105,6 +105,10 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
+|Find whether an array is subset of another array|[Find whether an array is subset of another array](https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/)|
+|Union and Intersection of two Linked Lists|[Union and Intersection of two Linked Lists](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)|
+|Find a pair with given sum|[Find a pair with given sum](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)|
+|Find Itinerary from a given list of tickets|[Find Itinerary from a given list of tickets](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)|
 
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
