@@ -98,10 +98,12 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|deletion in linked kist|[deletion in linked kist](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)|
-|insertion in linked list|[insertion in linked list](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)|
-|sorting a linked list|[sorting a linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)|
-|swapping in linked list|[swapping in linked list](https://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/)|
+|deletion in linked list|[deletion in linked list](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
+|insertion in linked list|[insertion in linked list](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/linked-list-insertion/1)
+|sorting a linked list|[sorting a linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)
+|swapping in linked list|[swapping in linked list](https://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+|Check if a linked list is Circular Linked List|[Check if a linked list is Circular Linked List by gfg](https://www.geeksforgeeks.org/check-if-a-linked-list-is-circular-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)
+|Deletion from a Circular Linked List|[Deletion from a Circular Linked List by gfg](https://www.geeksforgeeks.org/deletion-circular-linked-list/)|[Coding Ninjas](https://www.codingninjas.com/codestudio/problem-details/deletion-in-circular-linked-list_630409)
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
