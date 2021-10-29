@@ -30,62 +30,55 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 2.Arrays
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-
-|Rearrange an array with O(1) extra space||
-|Trapping Rain Water| [Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/) <br>|
-|Remove duplicate elements from sorted Array||
-|Reverse array in groups||
-|Rotate Array||
+|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/) <br> [Remove duplicate elements from sorted Array Codesdope](https://www.codesdope.com/blog/article/remove-duplicate-elements-from-sorted-array/) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 |Rearrange an array with O(1) extra space|[Rearrange an array with O(1) extra space by gfg](https://www.geeksforgeeks.org/rearrange-given-array-place/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
-|Trapping Rain Water|[Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
-|Remove duplicate elements from sorted Array|[Remove duplicate elements from sorted Array by gfg](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
+|Trapping Rain Water | [Trapping Rain Water by gfg](https://www.geeksforgeeks.org/trapping-rain-water/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) <br> [Leetcode](https://leetcode.com/problems/trapping-rain-water/)
+|Remove duplicate elements from sorted Array| [Remove duplicate elements from sorted Array by gfg](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
 |Reverse array in groups|[Reverse array in groups by gfg](https://www.geeksforgeeks.org/reverse-an-array-in-groups-of-given-size/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0)
 |Rotate Array|[Rotate array by gfg](https://www.geeksforgeeks.org/array-rotation/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
-|Equilibrium Point| [Equilibrium Point](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/) |
-|Leaders in an array| [Leaders in an array](https://www.geeksforgeeks.org/leaders-in-an-array/) |
-|Wave Array|[Wave Array](https://www.geeksforgeeks.org/sort-array-wave-form-2/)|
-|Subarray with given sum|[Subarray with given sum](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)|
-|Kadane's Algorithm|[Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)|
-|Find Transition Point|[Find Transition Point](https://www.geeksforgeeks.org/find-transition-point-binary-array/)|
-|Leaders in an array|[Leaders in an array](https://www.geeksforgeeks.org/leaders-in-an-array/)|
-|First Repeating Element|[First Repeating Element](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/)|
-|Smallest Positive missing number|[Smallest Positive missing number](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)|
-|Rearrange an array with O(1) extra space|[Rearrange an array with O(1) extra space](https://www.geeksforgeeks.org/rearrange-given-array-place/)|
-|Merge Without Extra Space||
+|Equilibrium Point| [Equilibrium Point - GFG](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1)
+|Leaders in an array| [Leaders in an array - GFG](https://www.geeksforgeeks.org/leaders-in-an-array/) |[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) <br> [InteviewBit](https://www.interviewbit.com/problems/leaders-in-an-array/)
+|Wave Array|[Wave Array - GFG](https://www.geeksforgeeks.org/sort-array-wave-form-2/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1) <br> [InterviewBit](https://www.interviewbit.com/problems/wave-array/)
+|Subarray with given sum|[Subarray with given sum - GFG](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)| [Leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) <br>[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
+|Kadane's Algorithm|[Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) <br> [InteviewBit](https://www.interviewbit.com/blog/maximum-subarray-sum/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+|Find Transition Point|[Find Transition Point](https://www.geeksforgeeks.org/find-transition-point-binary-array/)<br>[TutorialsPoint](https://www.tutorialspoint.com/given-a-sorted-array-of-0-s-and-1-s-find-the-transition-point-of-the-array-in-cplusplus)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/find-transition-point/1)
+|First Repeating Element|[First Repeating Element](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1) <br> [InterviewBit](https://www.interviewbit.com/problems/first-repeating-element/)
+|Smallest Positive missing number|[Smallest Positive missing number](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)<br>[Leetcode](https://leetcode.com/problems/first-missing-positive/)
+|Merge Without Extra Space|[Merge two sorted arrays with O(1) extra space - GFG](https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/) |[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)<br>[Leetcode](https://leetcode.com/discuss/interview-question/1054147/merge-without-extra-space)
 
 ### 3.Matrix
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Adding two matrices|[Adding two matrices](https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1)
-|Multiply the matrices|[Multiply the matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/multiply-matrices/1)
-|Determinant of a Matrix|[Determinant of a Matrix](https://www.geeksforgeeks.org/determinant-of-a-matrix/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1)
-|Transpose of Matrix|[Transpose of Matrix](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)
-|Rotate by 90 degree|[Rotate by 90 degree](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)
-|Spirally traversing a matrix|[Spirally traversing a matrix](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)|
-|Search in a row-column sorted Matrix|[Search in a row-column sorted Matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)|
-|Max rectangle||
+|Adding two matrices|[Adding two matrices - GFG](https://www.geeksforgeeks.org/program-addition-two-matrices/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1)
+|Multiply the matrices|[Multiply the matrices by GFG](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)<br>[By Khan Academy](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/multiply-matrices/1)
+|Determinant of a Matrix|[Determinant of a Matrix by GFG](https://www.geeksforgeeks.org/determinant-of-a-matrix/)<br>[By Tutorials Point](https://www.tutorialspoint.com/cplusplus-program-to-compute-determinant-of-a-matrix)| [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/cost-of-sweets0042/1)
+|Transpose of Matrix|[Transpose of Matrix by GFG](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/)<br>[By Tutorials Point](https://www.tutorialspoint.com/how-to-calculate-transpose-of-a-matrix-using-c-program) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)
+|Rotate by 90 degree|[Rotate by 90 degree](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)<br>[Leetcode](https://leetcode.com/problems/rotate-image/)
+|Spirally traversing a matrix|[Spirally traversing a matrix](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)<br>[Tutorials Point](https://tutorialspoint.dev/data-structure/matrix-archives/print-a-given-matrix-in-spiral-form)|[Leetcode](https://leetcode.com/problems/spiral-matrix/)
+|Search in a row-column sorted Matrix|[Search in a row-column sorted Matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)<br>[Tutorials Point](https://tutorialspoint.dev/language/c-and-cpp-programs/search-in-row-wise-and-column-wise-sorted-matrix)|[Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)
+|Max rectangle|[Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)|[Leetcode](https://leetcode.com/problems/maximal-rectangle/) <br>[InterviewBit](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)
 
 ### 4.Searching and Sorting
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Square root of a number|[Square root of a number](https://www.geeksforgeeks.org/square-root-of-an-integer/)|
-|Binary Search|[Binary Search](https://www.geeksforgeeks.org/binary-search/)|
-|Peak element|[Peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)|
-|Search an element in sorted and rotated array|[Search an element in sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)|
-|Merge Sort|[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|
-|Quick Sort|[Quick Sort](https://www.geeksforgeeks.org/quick-sort/)|
-|Union of Two Sorted Arrays|[Union of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|
-|Intersection of two sorted arrays|[Intersection of two sorted arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|
-|Minimum Swaps to Sort|[Minimum Swaps to Sort](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)|
-|Minimum Platforms||
-|Median of Two sorted arrays|[Median of Two sorted arrays](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)|
-|Sort an array of 0s, 1s and 2s|[Sort an array of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)|
+|Square root of a number|[Square root of a number](https://www.geeksforgeeks.org/square-root-of-an-integer/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/count-squares3649/1)<br>[Tutorials Point](https://tutorialspoint.dev/algorithm/mathematical-algorithms/square-root-of-an-integer)
+|Binary Search|[Binary Search](https://www.geeksforgeeks.org/binary-search/)|[Leetcode](https://leetcode.com/tag/binary-search/)<br>[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1)<br>[Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/)
+|Peak element|[Peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)| [Leetcode](https://leetcode.com/problems/find-peak-element/)<br>[Interview](https://www.interviewbit.com/problems/find-a-peak-element/)
+|Search an element in sorted and rotated array|[Search an element in sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)|[Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)<br>[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
+|Merge Sort|[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|[Hackerrank](https://www.hackerrank.com/contests/hw1/challenges/merge-sort)<br>[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/merge-sort/1)
+|Quick Sort|[QuickSort](https://www.geeksforgeeks.org/quick-sort/)<br>[InterviewBit](https://www.interviewbit.com/tutorial/quicksort-algorithm/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/quick-sort/1)
+|Union of Two Sorted Arrays|[Union of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
+|Intersection of two sorted arrays|[Intersection of two sorted arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|[Leetcode](https://leetcode.com/problems/intersection-of-two-arrays/)<br>[InterviewBit](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
+|Minimum Swaps to Sort|[Minimum number of swaps required to sort an array](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)<br>[By Coding Ninjas](https://www.codingninjas.com/blog/2021/09/09/minimum-number-of-swaps-to-sort-an-array/)|[GeekforGeeks](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)<br>[Hackerrank](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+|Minimum Platforms|[Minimum Number of Platforms Required for a Railway/Bus Station - GFG](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)<br>[By Tutorials Point](https://www.tutorialspoint.com/Minimum-Number-of-Platforms-Problem)|[GFG](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)<br>[Coding Ninjas](https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_799400)
+|Median of Two sorted arrays|[Median of Two Sorted Arrays - InterviewBit](https://www.interviewbit.com/blog/median-of-two-sorted-arrays/)<br>[By GeeksforGeeks](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)|[Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+|Sort an array of 0s, 1s and 2s|[Sort an array of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)<br>[Tutorials Point](https://tutorialspoint.dev/algorithm/sorting-algorithms/sort-an-array-of-0s-1s-and-2s)
 
 ### 5.Bit Manipulation
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 |Check whether K-th bit is set or not|[Check whether K-th bit is set or not by gfg](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)
-|Count total set bits|[Count total set bits by gfg](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1) [ InterviewBit](https://www.interviewbit.com/problems/count-total-set-bits/)
+|Count total set bits|[Count total set bits by gfg](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)<br>[ InterviewBit](https://www.interviewbit.com/problems/count-total-set-bits/)
 |Number is sparse or not|[Check if a given number is sparse or not by gfg](https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)
 |Binary To Gray Code equivalent|[Gray to Binary and Binary to Gray conversion by gfg](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)|[LeetCode](https://leetcode.com/problems/gray-code/)
 |Gray to Binary equivalent|[Gray to Binary and Binary to Gray conversion by gfg](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)
@@ -98,27 +91,10 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|deletion in linked list|[deletion in linked list](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
-|insertion in linked list|[insertion in linked list](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/linked-list-insertion/1)
-|sorting a linked list|[sorting a linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)
-|swapping in linked list|[swapping in linked list](https://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
-|Check if a linked list is Circular Linked List|[Check if a linked list is Circular Linked List by gfg](https://www.geeksforgeeks.org/check-if-a-linked-list-is-circular-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)
-|Deletion from a Circular Linked List|[Deletion from a Circular Linked List by gfg](https://www.geeksforgeeks.org/deletion-circular-linked-list/)|[Coding Ninjas](https://www.codingninjas.com/codestudio/problem-details/deletion-in-circular-linked-list_630409)
+
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Find whether an array is subset of another array|[Find whether an array is subset of another array](https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/)|
-|Union and Intersection of two Linked Lists|[Union and Intersection of two Linked Lists](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)|
-|Find a pair with given sum|[Find a pair with given sum](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)|
-|Find Itinerary from a given list of tickets|[Find Itinerary from a given list of tickets](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)|
-
-### 8.Tree
-|Height of Binary Tree|[Height of Binary Tree](https://www.geeksforgeeks.org/iterative-method-to-find-height-of-binary-tree/)|
-|Related Articles
-Write a Program to Find the Maximum Depth or Height of a Tree|[Related Articles
-Write a Program to Find the Maximum Depth or Height of a Tree](https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/?ref=lbp)|
-|Determine if two trees are identical|[Determine if two trees are identical](https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/)|
-|Checked for Balanced tree|[Checked for Balanced tree](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/)|
 
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
