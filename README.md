@@ -73,10 +73,10 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |Peak element|[Peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)|
 |Search an element in sorted and rotated array|[Search an element in sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)|
 |Merge Sort|[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|
-|Quick Sort||
-|Union of Two Sorted Arrays||
-|Intersection of two sorted arrays||
-|Minimum Swaps to Sort||
+|Quick Sort|[Quick Sort](https://www.geeksforgeeks.org/quick-sort/)|
+|Union of Two Sorted Arrays|[Union of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|
+|Intersection of two sorted arrays|[Intersection of two sorted arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|
+|Minimum Swaps to Sort|[Minimum Swaps to Sort](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)|
 |Minimum Platforms||
 |Median of Two sorted arrays||
 |Sort an array of 0s, 1s and 2s||
