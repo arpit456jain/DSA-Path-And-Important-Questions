@@ -77,7 +77,7 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |Union of Two Sorted Arrays|[Union of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)|
 |Intersection of two sorted arrays|[Intersection of two sorted arrays](https://iq.opengenus.org/intersection-of-two-arrays/)|
 |Minimum Swaps to Sort|[Minimum Swaps to Sort](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)|
-|Minimum Platforms|[Quick Sort](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)|
+|Minimum Platforms|[Minimum Platformsgit ](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)|
 |Median of Two sorted arrays||
 |Sort an array of 0s, 1s and 2s||
 
