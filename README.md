@@ -110,6 +110,14 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |Find a pair with given sum|[Find a pair with given sum](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)|
 |Find Itinerary from a given list of tickets|[Find Itinerary from a given list of tickets](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)|
 
+### 8.Tree
+|Height of Binary Tree|[Height of Binary Tree](https://www.geeksforgeeks.org/iterative-method-to-find-height-of-binary-tree/)|
+|Related Articles
+Write a Program to Find the Maximum Depth or Height of a Tree|[Related Articles
+Write a Program to Find the Maximum Depth or Height of a Tree](https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/?ref=lbp)|
+|Determine if two trees are identical|[Determine if two trees are identical](https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/)|
+|Checked for Balanced tree|[Checked for Balanced tree](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/)|
+
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## DSA quick Revision [click here](https://github.com/arpit456jain/DSA-Quick-Revison)
