@@ -91,9 +91,23 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
+|Print Linked List elements|
 |Reverse a Linked List|
 |Occurence of an integer in a Linked List|
 |Pairwise swap elements of a linked list|
+|Add two numbers represented by linked lists|
+|Sorted insert for circular linked list|
+|Spilt a Circular Linked List into two halves|
+|Detect loop in linked list|
+|Delete Middle of Linked list|
+|Circular Linked List Delete at Position|
+|Delete without head pointer|
+|Reverse a Linked List in groups of given size|
+|Intersection Point in Y Shaped Linked Lists|
+|Quick Sort on Linked List|
+|Clone a linked list with next and random pointer|
+|Merge Sort on Doubly Linked List|
+|QuickSort on Doubly Linked List|
 
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
