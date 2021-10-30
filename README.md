@@ -90,6 +90,7 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
+|---|---|---|
 |Reverse a Linked List|
 |Occurence of an integer in a Linked List|
 |Pairwise swap elements of a linked list|
