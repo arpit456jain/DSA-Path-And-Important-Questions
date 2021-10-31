@@ -102,6 +102,11 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |insertion in linked list|[insertion in linked list](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)|
 |sorting a linked list|[sorting a linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)|
 |swapping in linked list|[swapping in linked list](https://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/)|
+|Print Linked List elements|[Print Linked List elements](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1)
+|Reverse a Linked List|[Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+|Occurence of an integer in a Linked List|[Occurence of an integer in a Linked List](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1)
+|Pairwise swap elements of a linked list|[Pairwise swap elements of a linked list](https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+|Add two numbers represented by linked lists|[Add two numbers represented by linked lists](https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
