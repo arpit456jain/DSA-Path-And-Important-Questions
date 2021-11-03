@@ -1,4 +1,4 @@
-# DSA-Path-And-Important-Questions
+# DSA-Path-And-Important-Questions 
 I am planning to add a beginner friendly path for my Juniors to Learn DSA 
 
 Are you a Newbie in programming and want to dive deep into it?
@@ -139,6 +139,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 ## 💬Join Our CodeSmashers Community
 
-Join - https://discord.gg/gtYUZQSjTt
+
+Join discord - https://discord.gg/gtYUZQSjTt
 
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
