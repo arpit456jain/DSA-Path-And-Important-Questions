@@ -112,7 +112,7 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|||
+|Check if two arrays are equal or not||
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## DSA quick Revision [click here](https://github.com/arpit456jain/DSA-Quick-Revison)
