@@ -1,5 +1,5 @@
 # DSA-Path-And-Important-Questions 
-I am planning to add a beginner friendly path for my Juniors to Learn DSA 
+I am planning to add a beginner friendly path for my Juniors to Learn DSA easily
 
 Are you a Newbie in programming and want to dive deep into it?
 
