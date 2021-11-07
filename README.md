@@ -91,7 +91,7 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Print Linked List elements|
+|Print Linked List elements| [Print Linked List elements](https://www.google.com/amp/s/www.geeksforgeeks.org/linked-list-set-1-introduction/amp/)
 |Reverse a Linked List|
 |Occurence of an integer in a Linked List|
 |Pairwise swap elements of a linked list|
