@@ -92,7 +92,7 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
 |Print Linked List elements| [Print Linked List elements](https://www.google.com/amp/s/www.geeksforgeeks.org/linked-list-set-1-introduction/amp/)
-|Reverse a Linked List|
+|Reverse a Linked List| [Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/) || 
 |Occurence of an integer in a Linked List|
 |Pairwise swap elements of a linked list|
 |Add two numbers represented by linked lists|
