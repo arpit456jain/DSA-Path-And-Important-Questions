@@ -5,7 +5,7 @@ Are you a Newbie in programming and want to dive deep into it?
 
 <p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
 
-Are you looking for some good resources DSA
+Are you looking for some good resources DSA 
 
 <p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
 
