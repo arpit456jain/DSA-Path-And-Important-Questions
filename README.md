@@ -88,31 +88,32 @@ If you are looking contibute, get yourself started from [CONTRIBUTING.md](CONTRI
 |Swap all odd and even bits|[Swap all odd and even bits](https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)|[GeeksforGeeks](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)
 |Maximum subset XOR|[Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)|[Codeforces](https://codeforces.com/blog/entry/9518)
 
+
 ### 6.Linked List
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Print Linked List elements| [Print Linked List elements](https://www.google.com/amp/s/www.geeksforgeeks.org/linked-list-set-1-introduction/amp/)
-|Reverse a Linked List| [Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/) || 
-|Occurence of an integer in a Linked List|
-|Pairwise swap elements of a linked list|
-|Add two numbers represented by linked lists|
-|Sorted insert for circular linked list|
-|Spilt a Circular Linked List into two halves|
-|Detect loop in linked list|
-|Delete Middle of Linked list|
-|Circular Linked List Delete at Position|
-|Delete without head pointer|
-|Reverse a Linked List in groups of given size|
-|Intersection Point in Y Shaped Linked Lists|
-|Quick Sort on Linked List|
-|Clone a linked list with next and random pointer|
-|Merge Sort on Doubly Linked List|
-|QuickSort on Doubly Linked List|
+|Print Linked List elements| [Print Linked List elements](https://www.google.com/amp/s/www.geeksforgeeks.org/linked-list-set-1-introduction/amp/) | [HackerRank](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+|Reverse a Linked List| [Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/)
+|Occurence of an integer in a Linked List| [Occurence of an integer in a Linked List](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1/)
+|Pairwise swap elements of a linked list| [Pairwise swap elements of a linked list](https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+|Add two numbers represented by linked lists| [Add two numbers represented by linked lists](https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+|Sorted insert for circular linked list| [Sorted insert for circular linked list](https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1/)
+|Spilt a Circular Linked List into two halves| [Spilt a Circular Linked List into two halves](https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1/)
+|Detect loop in linked list| [Detect loop in linked list](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+|Delete Middle of Linked list| [Delete Middle of Linked list](https://www.geeksforgeeks.org/delete-middle-of-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1/)
+|Circular Linked List Delete at Position| [Circular Linked List Delete at Position](https://www.geeksforgeeks.org/deletion-at-different-positions-in-a-circular-linked-list/) | [HackerRank](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+|Delete without head pointer| [Delete without head pointer](https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+|Reverse a Linked List in groups of given size| [Reverse a Linked List in groups of given size](https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+|Intersection Point in Y Shaped Linked Lists| [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-Linked-lists/1/)
+|Quick Sort on Linked List| [Quick Sort on Linked List](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1/)
+|Clone a linked list with next and random pointer| [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+|Merge Sort on Doubly Linked List| [Merge Sort on Doubly Linked List](https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1/)
+|QuickSort on Doubly Linked List| [QuickSort on Doubly Linked List](https://www.geeksforgeeks.org/quicksort-for-linked-list/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1/)
 
 ### 7.Hashing
 | Topic | Related Article | Practice Problems on different Platforms|
 |---|---|---|
-|Check if two arrays are equal or not||
+|Check if two arrays are equal or not| [Check if two arrays are equal or not](https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## DSA quick Revision [click here](https://github.com/arpit456jain/DSA-Quick-Revison)
